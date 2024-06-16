@@ -1,42 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Banking_App\\",
+  "WorkspaceRootPath": "D:\\My_Projects\\Banking_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|c:\\users\\dell\\source\\repos\\banking_app\\banking_app\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\all_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\all_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\new_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|d:\\my_projects\\banking_app\\banking_app\\new_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\new_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|d:\\my_projects\\banking_app\\banking_app\\new_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\new_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|D:\\My_Projects\\Banking_App\\banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|D:\\My_Projects\\Banking_App\\banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|D:\\My_Projects\\Banking_App\\banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|C:\\Users\\Dell\\source\\repos\\Banking_App\\banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|d:\\my_projects\\banking_app\\banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00329BC2-B291-4636-8B04-BBB60CA659A3}|Banking_App\\Banking_App.csproj|solutionrelative:banking_app\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Login_Page.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Login_Page.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\Login_Page.cs",
               "RelativeDocumentMoniker": "Banking_App\\Login_Page.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Login_Page.cs",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\Login_Page.cs",
               "RelativeToolTip": "Banking_App\\Login_Page.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAYAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T04:53:46.903Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "New_account.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\New_account.cs",
+              "RelativeDocumentMoniker": "Banking_App\\New_account.cs",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\New_account.cs",
+              "RelativeToolTip": "Banking_App\\New_account.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:31:35.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Withdraw.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Withdraw.cs",
-              "RelativeDocumentMoniker": "Banking_App\\Withdraw.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Withdraw.cs [Design]",
-              "RelativeToolTip": "Banking_App\\Withdraw.cs [Design]",
+              "Title": "New_account.cs [Design]",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\New_account.cs",
+              "RelativeDocumentMoniker": "Banking_App\\New_account.cs",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\New_account.cs [Design]",
+              "RelativeToolTip": "Banking_App\\New_account.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:48:42.471Z",
+              "WhenOpened": "2024-06-16T20:28:25.064Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Deposit.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Deposit.cs",
-              "RelativeDocumentMoniker": "Banking_App\\Deposit.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Deposit.cs [Design]",
-              "RelativeToolTip": "Banking_App\\Deposit.cs [Design]",
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\Menu.cs",
+              "RelativeDocumentMoniker": "Banking_App\\Menu.cs",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\Menu.cs [Design]",
+              "RelativeToolTip": "Banking_App\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:47:59.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "All_account.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\All_account.cs",
-              "RelativeDocumentMoniker": "Banking_App\\All_account.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\All_account.cs [Design]",
-              "RelativeToolTip": "Banking_App\\All_account.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:46:53.443Z"
+              "WhenOpened": "2024-06-14T10:12:39.441Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Search.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Search.cs",
-              "RelativeDocumentMoniker": "Banking_App\\Search.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Search.cs [Design]",
-              "RelativeToolTip": "Banking_App\\Search.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:45:25.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "New_Account.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\New_Account.cs",
-              "RelativeDocumentMoniker": "Banking_App\\New_Account.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\New_Account.cs [Design]",
-              "RelativeToolTip": "Banking_App\\New_Account.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T11:54:57.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Menu.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\Menu.cs",
               "RelativeDocumentMoniker": "Banking_App\\Menu.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Menu.cs",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\Menu.cs",
               "RelativeToolTip": "Banking_App\\Menu.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCkAAAAAAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswGQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:14:35.635Z"
+              "WhenOpened": "2024-06-14T10:14:35.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Menu.cs",
-              "RelativeDocumentMoniker": "Banking_App\\Menu.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Menu.cs [Design]",
-              "RelativeToolTip": "Banking_App\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:12:39.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Login_Page.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Login_Page.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Banking_App\\Banking_App\\Login_Page.cs",
               "RelativeDocumentMoniker": "Banking_App\\Login_Page.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Banking_App\\Banking_App\\Login_Page.cs [Design]",
+              "ToolTip": "D:\\My_Projects\\Banking_App\\Banking_App\\Login_Page.cs [Design]",
               "RelativeToolTip": "Banking_App\\Login_Page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T04:42:14.568Z"
+              "WhenOpened": "2024-06-14T04:42:14.568Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

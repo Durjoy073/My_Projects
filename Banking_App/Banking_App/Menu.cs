@@ -24,7 +24,8 @@ namespace Banking_App
 
         private void fDFormToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Withdraw withdraw = new Withdraw();
+            withdraw.Show();
         }
 
         private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
@@ -39,7 +40,65 @@ namespace Banking_App
 
         private void newAccountToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            New_account newac = new New_account();
+            newac.Show();
+        }
 
+        private void searchAccountToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Search search = new Search();
+            search.Show();
+        }
+
+        private void allCustomerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            All_account all_Ac =new All_account();
+            all_Ac.Show();
+        }
+
+        private void depositToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Deposit deposit =new Deposit();
+            deposit.Show();
+        }
+
+        private void transferToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Transfer transfer =new Transfer();
+            transfer.Show();
+        }
+
+        private void fDFOrmToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void balanceSheetToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Balancesheet balancesheet =new Balancesheet();
+            balancesheet.Show();
+        }
+
+        private void viewFDToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ViewFD viewFD =new ViewFD();
+            viewFD.Show();
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void cHToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ChangePass changePass =new ChangePass();
+            changePass.Show();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
