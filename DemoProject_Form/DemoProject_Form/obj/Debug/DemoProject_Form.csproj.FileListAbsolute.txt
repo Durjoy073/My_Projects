@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.Form1.resources
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.Properties.Resources.resources
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\bin\Debug\DemoProject_Form.exe.config
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\bin\Debug\DemoProject_Form.exe
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\bin\Debug\DemoProject_Form.pdb
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.exe
+C:\Users\Dell\source\repos\DemoProject_Form\DemoProject_Form\obj\Debug\DemoProject_Form.pdb
