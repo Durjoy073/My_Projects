@@ -45,11 +45,13 @@ namespace DemoProject_Form
             SqlConnection conn = new SqlConnection("Data Source=DESKTOP-G6BNDA0\\SQLEXPRESS;Initial Catalog=StudentDB;Integrated Security=True;");
 
             conn.Open();
-            SqlCommand cmd = new SqlCommand("insert into Students(Name, Age, Department) values(@Name, @Age, @Department)",conn);
+            SqlCommand cmd = new SqlCommand("insert into Students(Name, Age, Department, Date) values(@Name, @Age, @Department, @Date)",conn);
+
 
             cmd.Parameters.AddWithValue("@Name", textBox1.Text);
             cmd.Parameters.AddWithValue("@Age", int.Parse(textBox2.Text));
-            cmd.Parameters.AddWithValue("@Department", textBox3.Text);
+            cmd.Parameters.AddWithValue("@Department", comboBox1.Text);
+            cmd.Parameters.AddWithValue("@Date", dateTimePicker1.Value);
             cmd.ExecuteNonQuery();
             conn.Close();
 
@@ -72,6 +74,38 @@ namespace DemoProject_Form
 
         private void label4_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'studentDBDataSet.Students' table. You can move, or remove it, as needed.
+            this.studentsTableAdapter.Fill(this.studentDBDataSet.Students);
 
         }
     }
