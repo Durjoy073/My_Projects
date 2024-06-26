@@ -77,37 +77,29 @@ namespace DemoProject_Form
 
         private void DPTextchange(object sender, EventArgs e)
         {
-            if (dataGridView1.CurrentCell != null && dataGridView1.CurrentCell.ColumnIndex == 4)
+
+            //dataGridView1.CurrentCell.Value =dtp1.Value.ToString("yyyy-MM-dd");
+            //dtp1.Visible = false;
+
+
+            if (dataGridView1.CurrentCell != null && dataGridView1.CurrentCell.ColumnIndex == 4) // Assuming the date column index is 4
             {
-                dataGridView1.CurrentCell.Value = datetimepicker.Text.ToString();
+                dataGridView1.CurrentCell.Value = datetimepicker.Value.ToString("yyyy-MM-dd");
+                datetimepicker.Visible = false;
             }
-
-
         }
 
-        private void DPTclose(object sender, EventArgs e)
-        {
-            datetimepicker.Visible = false;
-            
-           
-        }
+        
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
-            if (e.ColumnIndex == 4)
+
+            if (e.ColumnIndex == 4) // Assuming the date column index is 4
             {
-
-                DateTimePicker dtp1 = new DateTimePicker();
-                dataGridView1.Controls.Add(dtp1);
-                dtp1.Format=DateTimePickerFormat.Custom;
-                dtp1.CustomFormat= "dd/MM/yyyy";
                 Rectangle displaycalender = dataGridView1.GetCellDisplayRectangle(e.ColumnIndex, e.RowIndex, true);
-                dtp1.Size = new Size(displaycalender.Width, displaycalender.Height);  
-                dtp1.Location = new Point(displaycalender.X, displaycalender.Y);    
-
-
-
-
+                datetimepicker.Size = new Size(displaycalender.Width, displaycalender.Height);
+                datetimepicker.Location = new Point(displaycalender.X, displaycalender.Y);
+                datetimepicker.Visible = true;
             }
 
         }
