@@ -1,0 +1,10 @@
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\SqlTransaction.csproj.AssemblyReference.cache
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\DemoProject_Form.Form1.resources
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\DemoProject_Form.Properties.Resources.resources
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\SqlTransaction.csproj.GenerateResource.cache
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\SqlTransaction.csproj.CoreCompileInputs.cache
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\DemoProject_Form.exe
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\obj\Debug\DemoProject_Form.pdb
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\bin\Debug\DemoProject_Form.exe.config
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\bin\Debug\DemoProject_Form.exe
+D:\My_Projects\Sql Transaction Project\DemoProject_Form\bin\Debug\DemoProject_Form.pdb
