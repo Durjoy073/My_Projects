@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\New folder\ApiWindowsService\MYWindowsService.exe
+C:\Users\Dell\Documents\New folder\ApiWindowsService\appsettings.Development.json
+C:\Users\Dell\Documents\New folder\ApiWindowsService\appsettings.json
+C:\Users\Dell\Documents\New folder\ApiWindowsService\MYWindowsService.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\MYWindowsService.deps.json
+C:\Users\Dell\Documents\New folder\ApiWindowsService\MYWindowsService.runtimeconfig.json
+C:\Users\Dell\Documents\New folder\ApiWindowsService\MYWindowsService.pdb
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Microsoft.OpenApi.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\System.ServiceProcess.ServiceController.dll
+C:\Users\Dell\Documents\New folder\ApiWindowsService\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll

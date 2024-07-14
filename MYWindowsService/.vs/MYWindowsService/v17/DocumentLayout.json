@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Projects\\MYWindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|d:\\my_projects\\mywindowsservice\\mywindowsservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|solutionrelative:mywindowsservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|D:\\My_Projects\\MYWindowsService\\mywindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|solutionrelative:mywindowsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|D:\\My_Projects\\MYWindowsService\\mywindowsservice\\controller\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|solutionrelative:mywindowsservice\\controller\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|D:\\My_Projects\\MYWindowsService\\mywindowsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A2031B8-42F3-4E5E-A12C-EAC388DC55A8}|MYWindowsService\\MYWindowsService.csproj|solutionrelative:mywindowsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\appsettings.json",
+              "RelativeDocumentMoniker": "MYWindowsService\\appsettings.json",
+              "ToolTip": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\appsettings.json",
+              "RelativeToolTip": "MYWindowsService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T06:18:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyController.cs",
+              "DocumentMoniker": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Controller\\MyController.cs",
+              "RelativeDocumentMoniker": "MYWindowsService\\Controller\\MyController.cs",
+              "ToolTip": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Controller\\MyController.cs",
+              "RelativeToolTip": "MYWindowsService\\Controller\\MyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:05:27.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Program.cs",
+              "RelativeDocumentMoniker": "MYWindowsService\\Program.cs",
+              "ToolTip": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Program.cs",
+              "RelativeToolTip": "MYWindowsService\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:58:27.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Worker.cs",
+              "RelativeDocumentMoniker": "MYWindowsService\\Worker.cs",
+              "ToolTip": "D:\\My_Projects\\MYWindowsService\\MYWindowsService\\Worker.cs",
+              "RelativeToolTip": "MYWindowsService\\Worker.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:58:09.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
